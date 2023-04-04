@@ -1,0 +1,23 @@
+{
+  "timeZone": "Asia/Tokyo",
+  "dependencies": {
+    "libraries": [
+      {
+        "userSymbol": "Lodash",
+        "libraryId": "1SQ0PlSMwndIuOAgtVJdjxsuXueECtY9OGejVDS37ckSVbMll73EXf2PW",
+        "version": "6"
+      },
+      {
+        "userSymbol": "DayjsGas",
+        "libraryId": "1ShsRhHc8tgPy5wGOzUvgEhOedJUQD53m-gd8lG2MOgs-dXC_aCZn9lFB",
+        "version": "1"
+      }
+    ]
+  },
+  "webapp": {
+    "access": "DOMAIN",
+    "executeAs": "USER_ACCESSING"
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8"
+}
